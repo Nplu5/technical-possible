@@ -2,17 +2,22 @@
   margin: 0;
   padding: 0;
 }
-h1 {
-  color: #2b2929;
-  font-weight: 600;
-  font-size: 20rem;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+body {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
 }
+h1 {
+  color: #2b2929;
+  font-weight: 600;
+  font-size: 20rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 8px 3px 15px gray;
+}
+
+
 
 html {
   background-image: linear-gradient(
