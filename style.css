@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: #2b2929;
+  font-weight: 600;
+  font-size: 20rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+html {
+  background-image: linear-gradient(
+  180deg,
+  hsl(351deg 85% 59%) 0%,
+  hsl(1deg 81% 62%) 13%,
+  hsl(11deg 78% 60%) 24%,
+  hsl(18deg 73% 58%) 33%,
+  hsl(26deg 77% 59%) 40%,
+  hsl(33deg 81% 61%) 46%,
+  hsl(41deg 83% 63%) 52%,
+  hsl(57deg 55% 59%) 57%,
+  hsl(95deg 42% 61%) 62%,
+  hsl(148deg 40% 56%) 67%,
+  hsl(172deg 44% 46%) 73%,
+  hsl(183deg 48% 38%) 80%,
+  hsl(192deg 41% 34%) 88%,
+  hsl(201deg 28% 28%) 100%
+);
+}
